@@ -58,6 +58,7 @@
 
         "unittests/asserts.ts",
         "unittests/base64.ts",
+        "unittests/binarySearch.ts",
         "unittests/builder.ts",
         "unittests/comments.ts",
         "unittests/compilerCore.ts",
